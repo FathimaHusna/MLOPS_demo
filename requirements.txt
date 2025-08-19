@@ -3,10 +3,11 @@ pandas
 numpy
 pymongo
 certifi
-pymongo[srv]==3.11
 scikit-learn
-dill
+mlflow
 pyaml
+dagshub
+charset-normalizer>=2,<4
 
 
 ##-e .
