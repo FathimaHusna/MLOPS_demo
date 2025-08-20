@@ -4,7 +4,7 @@ numpy
 pymongo
 certifi
 scikit-learn
-mlflow
+mlflow==1.30.0
 pyaml
 dagshub
 charset-normalizer>=2,<4
