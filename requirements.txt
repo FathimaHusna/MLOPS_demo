@@ -7,6 +7,9 @@ scikit-learn
 mlflow==1.30.0
 pyaml
 dagshub
+fastapi
+uvicorn
+python-multipart
 charset-normalizer>=2,<4
 
 
